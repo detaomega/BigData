@@ -39,3 +39,7 @@ KMeans 是最常見的分群方法之一，程式碼寫起來不複雜，而且�
 
 KMeans 剛好擅長找這種有明顯中心的群集。
 雖然 KMeans 比較適合圓形的群集，但透過標準化處理和合適的參數設定，在這個資料集上應該能得到不錯的結果。
+
+## Github Repo
+
+https://github.com/detaomega/BigData
